@@ -11,3 +11,4 @@ Pomáhejte si, raďte se a nebojte se požádat o radu kolegy.
 ## Harmonogram
 | Datum | Téma | Prezentace | Poznámka |
 | --- | --- | --- | --- |
+| 5/6.9.2023 | Úvod | [1 - Úvod](https://github.com/Yeenya/Gymvod_23-24/blob/main/Oktavy/1%20-%205.9.2023/Prezentace_pdf.pdf) | |
