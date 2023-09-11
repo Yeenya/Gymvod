@@ -9,3 +9,5 @@ Pomáhejte si, raďte se a nebojte se požádat o radu kolegy.
 - Discord: yeenya (Yeenya#6930)
 
 Harmonogramy s informacemi, co se který týden probíralo, najdete ve složkách [Oktávy](https://github.com/Yeenya/Gymvod_23-24/tree/main/Oktavy) a [Septimy](https://github.com/Yeenya/Gymvod_23-24/tree/main/Septimy).
+
+Pokud se rozhodujete, kam na školu, a chtěli byste se dozvědět něco u fungování FEL ČVUT nebo MFF UK (nebo o vývoji her, počítačové grafice, herním enginu Unity, Godot apod.), řekněte mi a rád vám povím co budete chtít vědět. Pokud vás bude více, uděláme jednu hodinu prezentaci o těchto dvou školách a o tom kam se dá v republice ještě hlásit na programovací obory.
