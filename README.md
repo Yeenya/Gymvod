@@ -8,6 +8,6 @@ Na tomto repozitáři najdete všechny prezentace, výukové materiály a projek
 Na hodině se nebojte na cokoliv zeptat, i kdybychom to měli zopakovat po několikáté.
 Pomáhejte si, raďte se a nebojte se požádat o radu kolegy.
 
-##Harmonogram
+## Harmonogram
 | Datum | Téma | Prezentace | Poznámka |
 | --- | --- | --- | --- |
