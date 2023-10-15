@@ -7,3 +7,4 @@
 | 27.9.2023 | If & Cykly | [4 - If a Cykly](https://github.com/Yeenya/Gymvod_23-24/blob/main/Septimy/4%20-%2027.9.2023/Septimy%204.%20-%2027.9.2023.pdf) | Cvičení Kámen - Nůžky - Papír a Deathroll, zadání 1. úkolu |
 | 4.10.2023 | Dodělávání cvičení z minulé hodiny | Není | Deadline pro 1. úkol Kalkulačka je standardně 7.10. 23:59 (pokud jsme se nedomluvili jinak) |
 | 11.10.2023 | Rekurze | [6 - Rekurze](https://github.com/Yeenya/Gymvod_23-24/blob/main/Septimy/6%20-%2011.10.2023/Septimy%206.%20-%2011.10.2023.pdf) | Cvičení Recursion Playground (Faktoriál + Fibonacci) |
+| 18.10.2023 | Feedback ke Kalkulačkám, Pole | [7 - Pole](https://github.com/Yeenya/Gymvod_23-24/blob/main/Septimy/7%20-%2018.10.2023/Septimy%207.%20-%2018.10.2023.pdf) | Cvičení Array Playground |
