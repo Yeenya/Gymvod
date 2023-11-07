@@ -10,3 +10,4 @@
 | 18.10.2023 | Feedback ke Kalkulačkám, Pole | [7 - Pole](https://github.com/Yeenya/Gymvod_23-24/blob/main/Septimy/7%20-%2018.10.2023/Septimy%207.%20-%2018.10.2023.pdf) | Cvičení Array Playground |
 | 25.10.2023 | Pole - pokračování | [8 - Vyhledávání v poli](https://github.com/Yeenya/Gymvod_23-24/blob/main/Septimy/8%20-%2025.10.2023/Septimy%208.%20-%2025.10.2023.pdf) | Cvičení Search Playground |
 | 1.11.2023 | 2D Pole | [9 - 2D Pole](https://github.com/Yeenya/Gymvod_23-24/blob/main/Septimy/9%20-%201.11.2023/Septimy%209.%20-%201.11.2023.pdf) | Cvičení 2D Array Playground, zadání 2. úkolu |
+| 8.11.2023 | 2D Pole - pokračování | není | Pokračování cvičení 2D Array Playground |
