@@ -11,3 +11,4 @@
 | 24.10.2023 | Pole - pokračování | [8 - Vyhledávání v poli](https://github.com/Yeenya/Gymvod_23-24/blob/main/Oktavy/8%20-%2024.10.2023/Okt%C3%A1vy%208.%20-%2024.10.2023.pdf) | Cvičení Search Playground |
 | 31.10.2023 | 2D Pole | [9 - 2D Pole](https://github.com/Yeenya/Gymvod_23-24/blob/main/Oktavy/9%20-%2031.10.2023/Okt%C3%A1vy%209.%20-%2031.10.2023.pdf) | Cvičení 2D Array Playground, zadání 2. úkolu |
 | 7.11.2023 | 2D Pole - pokračování | není | Pokračování cvičení 2D Array Playground |
+| 14.11.2023 | Řadící algoritmy | [11 - Řadící algoritmy](https://github.com/Yeenya/Gymvod_23-24/blob/main/Oktavy/11%20-%2014.11.2023/Okt%C3%A1vy%2011.%20-%2014.11.2023.pdf) | Cvičení Sort Playground |
