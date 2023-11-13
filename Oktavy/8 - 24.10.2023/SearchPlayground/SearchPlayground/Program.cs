@@ -4,6 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+/*
+ * Made by Jan Borecky for PRG seminar at Gymnazium Voderadska, year 2023-2024.
+ * Extended by students.
+ */
+
 namespace SearchPlayground
 {
     internal class Program
