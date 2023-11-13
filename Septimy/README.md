@@ -11,5 +11,5 @@
 | 25.10.2023 | Pole - pokračování | [8 - Vyhledávání v poli](https://github.com/Yeenya/Gymvod_23-24/blob/main/Septimy/8%20-%2025.10.2023/Septimy%208.%20-%2025.10.2023.pdf) | Cvičení Search Playground |
 | 1.11.2023 | 2D Pole | [9 - 2D Pole](https://github.com/Yeenya/Gymvod_23-24/blob/main/Septimy/9%20-%201.11.2023/Septimy%209.%20-%201.11.2023.pdf) | Cvičení 2D Array Playground, zadání 2. úkolu |
 | 8.11.2023 | 2D Pole - pokračování | není | Pokračování cvičení 2D Array Playground |
-| 15.11.2023 | 2D Pole - pokračování 2 | není | Vzhledem k minimální účasti na předešlém cvičení pokračujeme ve 2D polích až touto hodinou |
+| 15.11.2023 | 2D Pole - pokračování 2 | není | Vzhledem k minimální účasti na předešlém cvičení pokračujeme ve 2D polích až touto hodinou. Deadline na 2. úkol Maticové operace prodloužen do 25.11. 23:59! |
 | 22.11.2023 | Řadící algoritmy | [12 - Řadící algoritmy](https://github.com/Yeenya/Gymvod_23-24/blob/main/Septimy/12%20-%2022.11.2023/Septimy%2012.%20-%2022.11.2023.pdf) | Cvičení Sorting Playground |
