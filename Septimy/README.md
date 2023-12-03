@@ -14,3 +14,4 @@
 | 15.11.2023 | 2D Pole - pokračování 2 | není | Vzhledem k minimální účasti na předešlém cvičení pokračujeme ve 2D polích až touto hodinou. Deadline na 2. úkol Maticové operace prodloužen do 25.11. 23:59! |
 | 22.11.2023 | Řadící algoritmy | [12 - Řadící algoritmy](https://github.com/Yeenya/Gymvod_23-24/blob/main/Septimy/12%20-%2022.11.2023/Septimy%2012.%20-%2022.11.2023.pdf) | Cvičení Sorting Playground |
 | 29.11.2023 | Třídy | [13 - Třídy](https://github.com/Yeenya/Gymvod_23-24/blob/main/Septimy/13%20-%2029.11.2023/Septimy%2013.%20-%2029.11.2023.pdf) |  |
+| 6.12.2023 | Třídy - pokračování | není | Cvičení Class Playground, [Feedback zde](https://forms.gle/VNLeVP6AznyEupjP6) |
