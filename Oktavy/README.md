@@ -14,3 +14,4 @@
 | 14.11.2023 | Řadící algoritmy | [11 - Řadící algoritmy](https://github.com/Yeenya/Gymvod_23-24/blob/main/Oktavy/11%20-%2014.11.2023/Okt%C3%A1vy%2011.%20-%2014.11.2023.pdf) | Cvičení Sorting Playground |
 | 21.11.2023 | Řadící algoritmy - pokračování | není | |
 | 28.11.2023 | Třídy | [13 - Třídy](https://github.com/Yeenya/Gymvod_23-24/blob/main/Oktavy/13%20-%2028.11.2023/Okt%C3%A1vy%2013.%20-%2028.11.2023.pdf) |  |
+| 5.12.2023 | Třídy - pokračování | není | Cvičení ClassPlayground, [Feedback zde](https://forms.gle/JTUh5hqnDjaNyh6h6) |
