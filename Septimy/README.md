@@ -15,3 +15,4 @@
 | 22.11.2023 | Řadící algoritmy | [12 - Řadící algoritmy](https://github.com/Yeenya/Gymvod_23-24/blob/main/Septimy/12%20-%2022.11.2023/Septimy%2012.%20-%2022.11.2023.pdf) | Cvičení Sorting Playground |
 | 29.11.2023 | Třídy | [13 - Třídy](https://github.com/Yeenya/Gymvod_23-24/blob/main/Septimy/13%20-%2029.11.2023/Septimy%2013.%20-%2029.11.2023.pdf) |  |
 | 6.12.2023 | Třídy - pokračování | není | Cvičení Class Playground, [Feedback zde](https://forms.gle/VNLeVP6AznyEupjP6) |
+| 13.12.2023 | Dědičnost a Polymorfismus | [15 - Dědičnost a Polymorfismus](https://github.com/Yeenya/Gymvod_23-24/blob/main/Septimy/15%20-%2013.12.2023/Septimy%2015.%20-%2013.12.2023.pdf) | Pokračování ve cvičení Class Playground |
