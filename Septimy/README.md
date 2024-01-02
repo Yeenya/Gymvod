@@ -16,3 +16,4 @@
 | 29.11.2023 | Třídy | [13 - Třídy](https://github.com/Yeenya/Gymvod_23-24/blob/main/Septimy/13%20-%2029.11.2023/Septimy%2013.%20-%2029.11.2023.pdf) |  |
 | 6.12.2023 | Třídy - pokračování | není | Cvičení Class Playground, [Feedback zde](https://forms.gle/VNLeVP6AznyEupjP6) |
 | 13.12.2023 | Dědičnost a Polymorfismus | [15 - Dědičnost a Polymorfismus](https://github.com/Yeenya/Gymvod_23-24/blob/main/Septimy/15%20-%2013.12.2023/Septimy%2015.%20-%2013.12.2023.pdf) | Pokračování ve cvičení Class Playground |
+| 20.12.2023 | Abstraktní třídy, Interface | [16 - Abstraktní třídy, Interface](https://github.com/Yeenya/Gymvod_23-24/blob/main/Septimy/16%20-%2020.12.2023/Septimy%2016.%20-%2020.12.2023.pdf) | Zadání 3. úkolu, odevzdání do [feedbacku](https://forms.gle/x7Y25CaZaoHSMXXv5) |
