@@ -18,3 +18,4 @@
 | 12.12.2023 | Dědičnost a Polymorfismus | [15 - Dědičnost a Polymorfismus](https://github.com/Yeenya/Gymvod_23-24/blob/main/Oktavy/15%20-%2012.12.2023/Okt%C3%A1vy%2015.%20-%2012.12.2023.pdf) | Pokračování ve cvičení ClassPlayground |
 | 19.12.2023 | Abstraktní třídy, Interface | [16 - Abstraktní třídy, Interface](https://github.com/Yeenya/Gymvod_23-24/blob/main/Oktavy/16%20-%2019.12.2023/Okt%C3%A1vy%2016.%20-%2019.12.2023.pdf) | Zadání 3. úkolu, odevzdání do [feedbacku](https://forms.gle/gnNTSUU69JWyxtBs8) |
 | 9.1.2024 | String a vše kolem něj | [19 - String](https://github.com/Yeenya/Gymvod_23-24/blob/main/Oktavy/19%20-%209.1.2024/Okt%C3%A1vy%2019.%20-%209.1.2024.pdf) |  |
+| 16.1.2024 | Grafy | [20 - Grafy](https://github.com/Yeenya/Gymvod_23-24/blob/main/Oktavy/20%20-%2016.1.2024/Okt%C3%A1vy%2020.%20-%2016.1.2024.pdf) |  |
