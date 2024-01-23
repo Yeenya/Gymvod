@@ -1,3 +1,5 @@
+## [Feedback za 1. pololetí](https://forms.gle/6C2GqZUiaNie41pC9)
+
 ## Harmonogram
 | Datum | Téma | Prezentace | Poznámka |
 | --- | --- | --- | --- |
