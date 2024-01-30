@@ -90,7 +90,7 @@ namespace DFS
             Console.Write("Path to node " + randomNodeIndex + " goes as follows: ");
             for (int i = path.Count - 1; i >= 0; i--)
             {
-                Console.Write(i);
+                Console.Write(path[i]);
                 if (i > 0) Console.Write(" -> ");
             }
             Console.WriteLine();
