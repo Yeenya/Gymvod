@@ -22,3 +22,5 @@
 | 9.1.2024 | String a vše kolem něj | [19 - String](https://github.com/Yeenya/Gymvod_23-24/blob/main/Oktavy/19%20-%209.1.2024/Okt%C3%A1vy%2019.%20-%209.1.2024.pdf) |  |
 | 16.1.2024 | Grafy | [20 - Grafy](https://github.com/Yeenya/Gymvod_23-24/blob/main/Oktavy/20%20-%2016.1.2024/Okt%C3%A1vy%2020.%20-%2016.1.2024.pdf) |  |
 | 23.1.2024 | Prohledávání do hloubky (DFS) | není | Cvičení DFS |
+| 30.1.2024 | Pokračování v grafech | není |  |
+| 6.2.2024 | BFS, Dijkstrův algoritmus | [23 - Pokračování grafů](https://github.com/Yeenya/Gymvod_23-24/blob/main/Oktavy/23%20-%206.2.2024/Okt%C3%A1vy%2023.%20-%206.2.2024.pdf) | Cvičení Graph Playground |
