@@ -21,4 +21,7 @@
 | 20.12.2023 | Abstraktní třídy, Interface | [16 - Abstraktní třídy, Interface](https://github.com/Yeenya/Gymvod_23-24/blob/main/Septimy/16%20-%2020.12.2023/Septimy%2016.%20-%2020.12.2023.pdf) | Zadání 3. úkolu, odevzdání do [feedbacku](https://forms.gle/x7Y25CaZaoHSMXXv5) |
 | 3.1.2024 | String a vše kolem něj | [18 - String](https://github.com/Yeenya/Gymvod_23-24/blob/main/Septimy/18%20-%203.1.2024/Septimy%2018.%20-%203.1.2024.pdf) |  |
 | 10.1.2024 | Grafy | [19 - Grafy](https://github.com/Yeenya/Gymvod_23-24/blob/main/Septimy/19%20-%2010.1.2024/Septimy%2019.%20-%2010.1.2024.pdf) |  |
-| 17.1.2024 | Prohledávání do hloubky (DFS) | není | Cvičení DFS |
+| 17.1.2024 | Prohledávání do hloubky (DFS) | není | Suplování, Cvičení DFS |
+| 24.1.2024 | Pokračování v grafech | není |  |
+| 31.1.2024 | Odpadlo |  |  |
+| 7.2.2024 | BFS, Dijkstrův algoritmus | [23 - Pokračování grafů](https://github.com/Yeenya/Gymvod_23-24/blob/main/Septimy/23%20-%207.2.2024/Septimy%2023.%20-%207.2.2024.pdf) | Cvičení Graph Playground |
