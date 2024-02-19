@@ -24,3 +24,5 @@
 | 23.1.2024 | Prohledávání do hloubky (DFS) | není | Cvičení DFS |
 | 30.1.2024 | Pokračování v grafech | není |  |
 | 6.2.2024 | BFS, Dijkstrův algoritmus | [23 - Pokračování grafů](https://github.com/Yeenya/Gymvod_23-24/blob/main/Oktavy/23%20-%206.2.2024/Okt%C3%A1vy%2023.%20-%206.2.2024.pdf) | Cvičení Graph Playground |
+| 13.2.2024 |  |  | prázdniny |
+| 20.2.2024 | UI, WinForms | [25 - UI, WinForms](https://github.com/Yeenya/Gymvod_23-24/blob/main/Oktavy/25%20-%2020.2.2024/Okt%C3%A1vy%2025.%20-%2020.2.2024.pdf) |  |
