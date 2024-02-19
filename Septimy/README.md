@@ -23,7 +23,7 @@
 | 10.1.2024 | Grafy | [19 - Grafy](https://github.com/Yeenya/Gymvod_23-24/blob/main/Septimy/19%20-%2010.1.2024/Septimy%2019.%20-%2010.1.2024.pdf) |  |
 | 17.1.2024 | Prohledávání do hloubky (DFS) | není | Suplování, Cvičení DFS |
 | 24.1.2024 | Pokračování v grafech | není |  |
-| 31.1.2024 | Odpadlo |  |  |
+| 31.1.2024 |  |  | prázdniny |
 | 7.2.2024 | BFS, Dijkstrův algoritmus | [23 - Pokračování grafů](https://github.com/Yeenya/Gymvod_23-24/blob/main/Septimy/23%20-%207.2.2024/Septimy%2023.%20-%207.2.2024.pdf) | Cvičení Graph Playground |
 | 14.2.2024 |  |  | prázdniny |
 | 21.2.2024 | UI, WinForms | [25 - UI, WinForms](https://github.com/Yeenya/Gymvod_23-24/blob/main/Septimy/25%20-%2021.2.2024/Septimy%2025.%20-%2021.2.2024.pdf) |  |
