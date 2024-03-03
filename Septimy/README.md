@@ -28,3 +28,4 @@
 | 14.2.2024 |  |  | prázdniny |
 | 21.2.2024 | UI, WinForms | [25 - UI, WinForms](https://github.com/Yeenya/Gymvod_23-24/blob/main/Septimy/25%20-%2021.2.2024/Septimy%2025.%20-%2021.2.2024.pdf) |  |
 | 28.2.2024 | WinForms | není | Cvičení Calculator Revisited |
+| 6.3.2024 | Zdroje a kreslení ve WinForms | [27 - Zdroje a kreslení](https://github.com/Yeenya/Gymvod_23-24/blob/main/Septimy/27%20-%206.3.2024/Septimy%2027.%20-%206.3.2024.pdf) | Zadání 4. úkolu |
