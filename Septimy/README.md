@@ -23,9 +23,9 @@
 | 10.1.2024 | Grafy | [19 - Grafy](https://github.com/Yeenya/Gymvod_23-24/blob/main/Septimy/19%20-%2010.1.2024/Septimy%2019.%20-%2010.1.2024.pdf) |  |
 | 17.1.2024 | Prohledávání do hloubky (DFS) | není | Suplování, Cvičení DFS |
 | 24.1.2024 | Pokračování v grafech | není |  |
-| 31.1.2024 |  |  | prázdniny |
+| 31.1.2024 |  |  | Prázdniny |
 | 7.2.2024 | BFS, Dijkstrův algoritmus | [23 - Pokračování grafů](https://github.com/Yeenya/Gymvod_23-24/blob/main/Septimy/23%20-%207.2.2024/Septimy%2023.%20-%207.2.2024.pdf) | Cvičení Graph Playground |
-| 14.2.2024 |  |  | prázdniny |
+| 14.2.2024 |  |  | Prázdniny |
 | 21.2.2024 | UI, WinForms | [25 - UI, WinForms](https://github.com/Yeenya/Gymvod_23-24/blob/main/Septimy/25%20-%2021.2.2024/Septimy%2025.%20-%2021.2.2024.pdf) |  |
 | 28.2.2024 | WinForms | není | Cvičení Calculator Revisited |
 | 6.3.2024 | Zdroje a kreslení ve WinForms | [27 - Zdroje a kreslení](https://github.com/Yeenya/Gymvod_23-24/blob/main/Septimy/27%20-%206.3.2024/Septimy%2027.%20-%206.3.2024.pdf) | Zadání 4. úkolu |
@@ -33,3 +33,9 @@
 | 20.3.2024 | Konzultace k úkolu | není |  |
 | 27.3.2024 | Opakování tříd | není |  |
 | 3.4.2024 | Opakování práce se soubory | není | Cvičení Files |
+| 10.4.2024 | OOP ve WinForms, Týmové projekty | není | Zahájení týmových projektů |
+| 17.4.2024 |  | není | Přijímačky (seminář nebyl |
+| 24.4.2024 | Prezentace týmových projektů | není |  |
+| 1.5.2024 |  |  | Státní svátek |
+| 8.5.2024 |  |  | Státní svátek |
+| 15.5.2024 | Práce na softwarovém díle, práce v týmu | [37 - Práce na díle a v týmu](https://github.com/Yeenya/Gymvod_23-24/blob/main/Septimy/37%20-%2015.5.2024/Septimy%2037.%20-%2015.5.2024.pdf) |  |
