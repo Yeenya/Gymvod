@@ -32,3 +32,6 @@
 | 19.3.2024 | Opakování rekurze | není |  |
 | 26.3.2024 | Opakování tříd | není |  |
 | 2.4.2024 | Opakování práce se soubory | není | Cvičení Files |
+| 9.4.2024 | Grafický objekt jako instance třídy | není |  |
+| 16.4.2024 |  |  | přijímačky - hodina nebyla |
+| 23.4.2024 | Maturitní otázky nanečisto |  | Feedback za 2. pololetí a celý seminář [zde](https://forms.gle/1LJ5yfGFSiMbH6dL8) |
