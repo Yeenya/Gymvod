@@ -34,7 +34,7 @@
 | 27.3.2024 | Opakování tříd | není |  |
 | 3.4.2024 | Opakování práce se soubory | není | Cvičení Files |
 | 10.4.2024 | OOP ve WinForms, Týmové projekty | není | Zahájení týmových projektů |
-| 17.4.2024 |  | není | Přijímačky (seminář nebyl |
+| 17.4.2024 |  |  | Přijímačky (seminář nebyl) |
 | 24.4.2024 | Prezentace týmových projektů | není |  |
 | 1.5.2024 |  |  | Státní svátek |
 | 8.5.2024 |  |  | Státní svátek |
