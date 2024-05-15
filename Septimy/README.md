@@ -39,3 +39,9 @@
 | 1.5.2024 |  |  | Státní svátek |
 | 8.5.2024 |  |  | Státní svátek |
 | 15.5.2024 | Práce na softwarovém díle, práce v týmu | [37 - Práce na díle a v týmu](https://github.com/Yeenya/Gymvod_23-24/blob/main/Septimy/37%20-%2015.5.2024/Septimy%2037.%20-%2015.5.2024.pdf) |  |
+| 22.5.2024 | Konzultace projektů | není |  |
+| 29.5.2024 | Prezentace dosavadního postupu na projektech | není |  |
+| 5.6.2024 | Konzultace projektů | není |  |
+| 12.6.2024 |  |  | Sportovní kurzy |
+| 19.6.2024 | Prezentace finálních verzí projektů | není |  |
+| 26.6.2024 | Závěrečná hodina |  |  |
