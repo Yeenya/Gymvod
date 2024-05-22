@@ -42,6 +42,6 @@
 | 22.5.2024 | Konzultace projektů | není |  |
 | 29.5.2024 | Prezentace dosavadního postupu na projektech | není |  |
 | 5.6.2024 | Konzultace projektů | není |  |
-| 12.6.2024 |  |  | Sportovní kurzy |
+| 12.6.2024 |  |  | Sportovní kurzy, ODEVZDÁNÍ TÝMOVÝCH PROJEKTŮ DO 16.6. 23:59! |
 | 19.6.2024 | Prezentace finálních verzí projektů | není |  |
 | 26.6.2024 | Závěrečná hodina |  |  |
