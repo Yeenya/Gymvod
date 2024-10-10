@@ -6,3 +6,4 @@
 | 20.9.2024 | If, Cykly | [3 - If a cykly](https://github.com/Yeenya/Gymvod/blob/main/2024-2025/Oktavy/3.%20-%2020.9.2024/Okt%C3%A1vy%203.%20-%2020.9.2024.pdf) | Cvičení Kámen-Nůžky-Papír a (případně) Deathroll |
 | 26.9.2024 | Suplování |  | Dodělejte cvičení z předchozí hodiny a poté si pullněte projekt [Calculator](https://github.com/Yeenya/Gymvod/tree/main/2024-2025/Oktavy/4.%20-%2027.9.2024/Calculator/Calculator) a přečtěte si [Zadání](https://github.com/Yeenya/Gymvod/blob/main/2024-2025/Oktavy/4.%20-%2027.9.2024/Zad%C3%A1n%C3%AD%201.%20%C3%BAkolu.pdf) |
 | 4.10.2024 | Konzultace a řešení zadaných cvičení | není | Deadline pro 1. úkol Kalkulačka je 11.10. 23:59 |
+| 11.10.2024 | Rekurze | [6 - Rekurze](https://github.com/Yeenya/Gymvod/blob/main/2024-2025/Oktavy/6%20-%2011.10.2024/Okt%C3%A1vy%206.%20-%2011.10.2024.pdf) |  |
