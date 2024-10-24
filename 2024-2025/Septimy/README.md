@@ -8,3 +8,4 @@
 | 4.10.2024 | Konzultace a řešení zadaných cvičení | není | Deadline pro 1. úkol Kalkulačka je 11.10. 23:59 |
 | 11.10.2024 | Rekurze | [6 - Rekurze](https://github.com/Yeenya/Gymvod/blob/main/2024-2025/Septimy/6%20-%2011.10.2024/Septimy%206.%20-%2011.10.2024.pdf) | Cvičení Recursion Playground |
 | 18.10.2024 | Rekurze + Debugging | není | Pokračování ve cvičení Recursion Playground |
+| 25.10.2024 | Pole | [8 - Pole](https://github.com/Yeenya/Gymvod/blob/main/2024-2025/Septimy/8.%20-%2025.10.2024/Septimy%208.%20-%2025.10.2024.pdf) | Cvičení Array Playground |
