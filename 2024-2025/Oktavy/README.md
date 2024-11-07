@@ -9,3 +9,4 @@
 | 11.10.2024 | Rekurze | [6 - Rekurze](https://github.com/Yeenya/Gymvod/blob/main/2024-2025/Oktavy/6%20-%2011.10.2024/Okt%C3%A1vy%206.%20-%2011.10.2024.pdf) | Cvičení Recursion Playground |
 | 18.10.2024 | Rekurze + Debugging | není | Pokračování ve cvičení Recursion Playground |
 | 25.10.2024 | Pole | [8 - Pole](https://github.com/Yeenya/Gymvod/blob/main/2024-2025/Oktavy/8%20-%2025.10.2024/Okt%C3%A1vy%208.%20-%2025.10.2024.pdf) | Cvičení Array Playground |
+| 1.11.2024 | Listy, Slovníky | [9 - Listy a Slovníky](https://github.com/Yeenya/Gymvod/blob/main/2024-2025/Oktavy/Okt%C3%A1vy%209.%20-%201.11.2024.pdf) | Cvičení v prezentaci dle volby |
