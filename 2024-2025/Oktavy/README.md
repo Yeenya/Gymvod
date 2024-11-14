@@ -10,4 +10,5 @@
 | 18.10.2024 | Rekurze + Debugging | není | Pokračování ve cvičení Recursion Playground |
 | 25.10.2024 | Pole | [8 - Pole](https://github.com/Yeenya/Gymvod/blob/main/2024-2025/Oktavy/8%20-%2025.10.2024/Okt%C3%A1vy%208.%20-%2025.10.2024.pdf) | Cvičení Array Playground |
 | 1.11.2024 | Listy, Slovníky | [9 - Listy a Slovníky](https://github.com/Yeenya/Gymvod/blob/main/2024-2025/Oktavy/Okt%C3%A1vy%209.%20-%201.11.2024.pdf) | Cvičení v prezentaci dle volby |
-| 8.11.2024 | Vyhledávání v poli | [10 - Vyhledávání v poli](https://github.com/Yeenya/Gymvod/blob/main/2024-2025/Oktavy/9%20-%208.11.2024/Okt%C3%A1vy%2010.%20-%208.11.2024.pdf) | Cvičení Search Plaground, Ve složce najdete i vypracované 2 cvičení z minulé hodiny pro inspiraci |
+| 8.11.2024 | Vyhledávání v poli | [10 - Vyhledávání v poli](https://github.com/Yeenya/Gymvod/blob/main/2024-2025/Oktavy/10%20-%208.11.2024/Okt%C3%A1vy%2010.%20-%208.11.2024.pdf) | Cvičení Search Plaground, Ve složce najdete i vypracované 2 cvičení z minulé hodiny pro inspiraci |
+| 15.11.2024 | Řazení v poli | [11 - Řazení v poli](https://github.com/Yeenya/Gymvod/blob/main/2024-2025/Oktavy/11%20-%2015.11.2024/Okt%C3%A1vy%2011.%20-%2015.11.2024.pdf) | Cvičení Sorting Playground |
