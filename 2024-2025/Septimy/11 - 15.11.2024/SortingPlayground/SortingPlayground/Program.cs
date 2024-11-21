@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 /*
- * Made by Jan Borecky for PRG seminar at Gymnazium Voderadska, year 2023-2024.
+ * Made by Jan Borecky for PRG seminar at Gymnazium Voderadska, year 2024-2025.
  * Extended by students.
  */
 
