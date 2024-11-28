@@ -1,4 +1,4 @@
-## Harmonogram
+.## Harmonogram
 | Datum | Téma | Prezentace | Poznámka |
 | --- | --- | --- | --- |
 | 6.9.2024 | Úvod do semináře | [1 - Úvod](https://github.com/Yeenya/Gymvod/blob/main/2024-2025/Septimy/Septimy%201.%20-%206.9.2024.pdf) |  |
@@ -13,3 +13,4 @@
 | 8.11.2024 | Vyhledávání v poli | [10 - Vyhledávání v poli](https://github.com/Yeenya/Gymvod/blob/main/2024-2025/Septimy/10%20-%208.11.2024/Septimy%2010.%20-%208.11.2024.pdf) | Cvičení Search Plaground, Ve složce najdete i vypracované 2 cvičení z minulé hodiny pro inspiraci |
 | 15.11.2024 | Řazení v poli | [11 - Řazení v poli](https://github.com/Yeenya/Gymvod/blob/main/2024-2025/Septimy/11%20-%2015.11.2024/Septimy%2011.%20-%2015.11.2024.pdf) | Cvičení Sorting Playground |
 | 22.11.2024 | 2D Pole | [12 - 2D Pole](https://github.com/Yeenya/Gymvod/blob/main/2024-2025/Septimy/12%20-%2022.11.2024/Septimy%2012.%20-%2022.11.2024.pdf) | Cvičení 2D Array Playground, Zadání 2. úkolu v [prezentaci](https://github.com/Yeenya/Gymvod/blob/main/2024-2025/Septimy/12%20-%2022.11.2024/Septimy%2012.%20-%2022.11.2024.pdf) |
+| 29.11.2024 | Konzultace k polím a 2. úkolu | není | Deadline 2. úkolu posunut na 13.12. 23:59 (+ možnost posunutí stejná jako v prezentaci) |
