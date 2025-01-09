@@ -15,3 +15,6 @@
 | 22.11.2024 | 2D Pole | [12 - 2D Pole](https://github.com/Yeenya/Gymvod/blob/main/2024-2025/Septimy/12%20-%2022.11.2024/Septimy%2012.%20-%2022.11.2024.pdf) | Cvičení 2D Array Playground, Zadání 2. úkolu v [prezentaci](https://github.com/Yeenya/Gymvod/blob/main/2024-2025/Septimy/12%20-%2022.11.2024/Septimy%2012.%20-%2022.11.2024.pdf) |
 | 29.11.2024 | Konzultace k polím a 2. úkolu | není | Deadline 2. úkolu posunut na 13.12. 23:59 (+ možnost posunutí stejná jako v prezentaci) |
 | 6.12.2024 | String | [14 - String](https://github.com/Yeenya/Gymvod/blob/main/2024-2025/Septimy/Septimy%2014.%20-%206.12.2024.pdf) |  |
+| 13.12.2024 |  |  | Suplování |
+| 20.12.2024 |  |  | Vánoční akademie - hodina nebyla |
+| 10.1.2025 | Třídy | [16 - Třídy](https://github.com/Yeenya/Gymvod/blob/main/2024-2025/Septimy/Septimy%2016.%20-%2010.1.2025.pdf) |  |
