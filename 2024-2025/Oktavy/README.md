@@ -19,3 +19,4 @@
 | 20.12.2024 |  | není | Vánoční akademie - hodina nebyla |
 | 10.1.2025 | Třídy | [16 - Třídy](https://github.com/Yeenya/Gymvod/blob/main/2024-2025/Oktavy/Okt%C3%A1vy%2016.%20-%2010.1.2025.pdf) |  |
 | 17.1.2025 | Třídy - pokračování | není | cvičení Class Playground |
+| 24.1.2025 | Dědičnost a Polymorfismus | [18 - Dědičnost a Polymorfismus](https://github.com/Yeenya/Gymvod/blob/main/2024-2025/Oktavy/Okt%C3%A1vy%2018.%20-%2024.1.2025.pdf) | pokračování ve cvičení Class Playground |
