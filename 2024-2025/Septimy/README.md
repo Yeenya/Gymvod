@@ -22,3 +22,4 @@
 | 24.1.2025 | Dědičnost a Polymorfismus | [18 - Dědičnost a Polymorfismus](https://github.com/Yeenya/Gymvod/blob/main/2024-2025/Septimy/Septimy%2018.%20-%2024.1.2025.pdf) | pokračování ve cvičení Class Playground |
 | 31.1.2025 |  | není | Pololetní vysvědčení - hodina nebyla |
 | 7.2.2025 | Abstrakce a Interface | [20 - Abstrakce a Interface](https://github.com/Yeenya/Gymvod/blob/main/2024-2025/Septimy/Septimy%2020.%20-%207.2.2025.pdf) | Zadání 3. úkolu v prezentaci |
+| 14.2.2025 | Grafy | [21 - Grafy](https://github.com/Yeenya/Gymvod/blob/main/2024-2025/Septimy/Septimy%2021.%20-%2014.2.2025.pdf) |  |
