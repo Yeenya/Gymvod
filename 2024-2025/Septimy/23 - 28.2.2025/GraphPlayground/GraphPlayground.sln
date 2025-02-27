@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphPlayground", "GraphPlayground\GraphPlayground.csproj", "{C0F19B49-B41B-456E-84A7-A726D0229EB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0F19B49-B41B-456E-84A7-A726D0229EB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0F19B49-B41B-456E-84A7-A726D0229EB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0F19B49-B41B-456E-84A7-A726D0229EB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0F19B49-B41B-456E-84A7-A726D0229EB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C941470E-853D-44EC-8FBF-3C03DA20CE0B}
+	EndGlobalSection
+EndGlobal
