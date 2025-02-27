@@ -23,3 +23,5 @@
 | 31.1.2025 |  | není | Pololetní vysvědčení - hodina nebyla |
 | 7.2.2025 | Abstrakce a Interface | [20 - Abstrakce a Interface](https://github.com/Yeenya/Gymvod/blob/main/2024-2025/Oktavy/Okt%C3%A1vy%2020.%20-%207.2.2025.pdf) | Zadání 3. úkolu v prezentaci |
 | 14.2.2025 | Grafy | [21 - Grafy](https://github.com/Yeenya/Gymvod/blob/main/2024-2025/Oktavy/Okt%C3%A1vy%2021.%20-%2014.2.2025.pdf) |  |
+| 21.2.2025 |  | není | Jarní prázdniny |
+| 28.2.2025 | Algoritmy na průchod grafem | [23 - DFS, BFS](https://github.com/Yeenya/Gymvod/blob/main/2024-2025/Oktavy/23%20-%2028.2.2025/Okt%C3%A1vy%2023.%20-%2028.2.2025.pdf) | Cvičení GraphPlayground |
