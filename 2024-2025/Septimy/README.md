@@ -25,3 +25,4 @@
 | 14.2.2025 | Grafy | [21 - Grafy](https://github.com/Yeenya/Gymvod/blob/main/2024-2025/Septimy/Septimy%2021.%20-%2014.2.2025.pdf) |  |
 | 21.2.2025 |  | není | Jarní prázdniny |
 | 28.2.2025 | Algoritmy na průchod grafem | [23 - DFS, BFS](https://github.com/Yeenya/Gymvod/blob/main/2024-2025/Septimy/23%20-%2028.2.2025/Septimy%2023.%20-%2028.2.2025.pdf) | Cvičení GraphPlayground |
+| 7.3.2025 | Grafové algoritmy, UI | [24 - Dijkstra, UI](https://github.com/Yeenya/Gymvod/blob/main/2024-2025/Septimy/Septimy%2024.%20-%207.3.2025.pdf) | Pokračování v GraphPlayground |
