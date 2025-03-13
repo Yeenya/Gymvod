@@ -24,5 +24,6 @@
 | 7.2.2025 | Abstrakce a Interface | [20 - Abstrakce a Interface](https://github.com/Yeenya/Gymvod/blob/main/2024-2025/Oktavy/Okt%C3%A1vy%2020.%20-%207.2.2025.pdf) | Zadání 3. úkolu v prezentaci |
 | 14.2.2025 | Grafy | [21 - Grafy](https://github.com/Yeenya/Gymvod/blob/main/2024-2025/Oktavy/Okt%C3%A1vy%2021.%20-%2014.2.2025.pdf) |  |
 | 21.2.2025 |  | není | Jarní prázdniny |
-| 28.2.2025 | Algoritmy na průchod grafem | [23 - DFS, BFS](https://github.com/Yeenya/Gymvod/blob/main/2024-2025/Oktavy/23%20-%2028.2.2025/Okt%C3%A1vy%2023.%20-%2028.2.2025.pdf) | Cvičení GraphPlayground |
-| 7.3.2025 | Grafové algoritmy, UI | [24 - Dijkstra, UI](https://github.com/Yeenya/Gymvod/blob/main/2024-2025/Oktavy/Okt%C3%A1vy%2024.%20-%207.3.2025.pdf) | Pokračování v GraphPlayground |
+| 28.2.2025 | Algoritmy na průchod grafem | [23 - DFS, BFS](https://github.com/Yeenya/Gymvod/blob/main/2024-2025/Oktavy/23%20-%2028.2.2025/Okt%C3%A1vy%2023.%20-%2028.2.2025.pdf) | Cvičení Graph Playground |
+| 7.3.2025 | Grafové algoritmy, UI | [24 - Dijkstra, UI](https://github.com/Yeenya/Gymvod/blob/main/2024-2025/Oktavy/Okt%C3%A1vy%2024.%20-%207.3.2025.pdf) | Pokračování v Graph Playground |
+| 14.3.2025 | WinForms | pokračování v minulé | Cvičení Calculator Revisited |
