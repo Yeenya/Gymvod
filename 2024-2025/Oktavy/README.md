@@ -27,3 +27,5 @@
 | 28.2.2025 | Algoritmy na průchod grafem | [23 - DFS, BFS](https://github.com/Yeenya/Gymvod/blob/main/2024-2025/Oktavy/23%20-%2028.2.2025/Okt%C3%A1vy%2023.%20-%2028.2.2025.pdf) | Cvičení Graph Playground |
 | 7.3.2025 | Grafové algoritmy, UI | [24 - Dijkstra, UI](https://github.com/Yeenya/Gymvod/blob/main/2024-2025/Oktavy/Okt%C3%A1vy%2024.%20-%207.3.2025.pdf) | Pokračování v Graph Playground |
 | 14.3.2025 | WinForms | pokračování v minulé | Cvičení Calculator Revisited |
+| 21.3.2025 | Zdroje a kreslení | [26 - Zdroje a kreslení](https://github.com/Yeenya/Gymvod/blob/main/2024-2025/Oktavy/Okt%C3%A1vy%2026.%20-%2021.3.2025.pdf) | Zadání 4. úkolu |
+| 28.3.2025 | Konzultace ke 4. úkolu | není |  |
