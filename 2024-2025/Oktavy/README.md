@@ -29,3 +29,7 @@
 | 14.3.2025 | WinForms | pokračování v minulé | Cvičení Calculator Revisited |
 | 21.3.2025 | Zdroje a kreslení | [26 - Zdroje a kreslení](https://github.com/Yeenya/Gymvod/blob/main/2024-2025/Oktavy/Okt%C3%A1vy%2026.%20-%2021.3.2025.pdf) | Zadání 4. úkolu |
 | 28.3.2025 | Konzultace ke 4. úkolu | není |  |
+| 4.4.2025 | Opakování, Konzultace ke 4. úkolu | není |  |
+| 11.4.2025 | Opakování, Konzultace ke 4. úkolu | není |  |
+| 18.4.2025 |  | není | Velikonoční prázdniny |
+| 25.4.2025 | Opakování k maturitě | není | Hodně štěstí u maturit! :) |
